@@ -13,8 +13,6 @@ public class Factory {
 		} else {
 			System.out.println("Supporto dati non consentito");
 		}
-
 		return null;
 	}
-
 }
